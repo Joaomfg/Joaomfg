@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm João Marcelo</h1>
-<h3 align="center">A passionate fullstack developer from brazil</h3>
+<h3 align="center">A fullstack developer that believes in the combination of art and technology</h3>
+
+- 🌱 I’m currently learning **Mongoose**
+
+- 👯 I’m looking to collaborate on **Fullstack developer projects**
+
+- 🤝 I’m looking for help with **C#**
+
+- 👨‍💻 All of my projects are available at [https://github.com/joaomfg](https://github.com/joaomfg)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/joaomfg/](https://www.linkedin.com/in/joaomfg/)
+
+- 💬 Ask me about **react, node.js, TS, JS and SQL**
+
+- 📫 How to reach me **joaomarcelofg@hotmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/joaomfg/](https://www.linkedin.com/in/joaomfg/)
+
+- ⚡ Fun fact **I think that i am very creative!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
